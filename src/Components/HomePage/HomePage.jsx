@@ -26,7 +26,7 @@ const HomePage = () => {
               >
                 <ul className="navbar-nav ml-auto">
                   <li className="nav-item">
-                    <Link className="nav-link" to={"/signin"}>
+                    <Link className="nav-link" to={"/login"}>
                       Login
                     </Link>
                   </li>
